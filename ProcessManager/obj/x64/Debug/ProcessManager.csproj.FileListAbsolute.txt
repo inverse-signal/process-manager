@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ProcessManager\ProcessManager\bin\x64\Debug\ProcessManager.exe.config
+C:\Users\user\source\repos\ProcessManager\ProcessManager\bin\x64\Debug\ProcessManager.exe
+C:\Users\user\source\repos\ProcessManager\ProcessManager\bin\x64\Debug\ProcessManager.pdb
+C:\Users\user\source\repos\ProcessManager\ProcessManager\obj\x64\Debug\ProcessManager.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ProcessManager\ProcessManager\obj\x64\Debug\ProcessManager.MainForm.resources
+C:\Users\user\source\repos\ProcessManager\ProcessManager\obj\x64\Debug\ProcessManager.Properties.Resources.resources
+C:\Users\user\source\repos\ProcessManager\ProcessManager\obj\x64\Debug\ProcessManager.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ProcessManager\ProcessManager\obj\x64\Debug\ProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProcessManager\ProcessManager\obj\x64\Debug\ProcessManager.exe
+C:\Users\user\source\repos\ProcessManager\ProcessManager\obj\x64\Debug\ProcessManager.pdb
